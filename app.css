@@ -282,9 +282,10 @@ color: #333;
     color: rgb(29, 63, 126);
     height: 2em;
     width: 2em;
-    border-style: none;
+    border:1px solid #333;
     border-radius: 50%;
     font-size: 2em;
     z-index: 999;
+    /* box-shadow:5px 5px  5px 5px #333 spread; */
 }
 
